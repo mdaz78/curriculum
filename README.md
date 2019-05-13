@@ -25,11 +25,11 @@ Also, **if you always remember that code is written to read (by humans)** and no
 
 
 - #### Articles
-  - ~~[What is Clean Code and why should you care?]~~(http://cvuorinen.net/2014/04/what-is-clean-code-and-why-should-you-care/)
+  - [~~What is Clean Code and why should you care?~~](http://cvuorinen.net/2014/04/what-is-clean-code-and-why-should-you-care/)
 
-  - ~~[Steps to better code]~~(https://medium.com/@isaaclyman/steps-to-better-code-e6c3cce0c7f9)
+  - [~~Steps to better code~~](https://medium.com/@isaaclyman/steps-to-better-code-e6c3cce0c7f9)
 
-  - [Clean code because it’s fun](https://medium.com/@adamzerner/clean-code-because-its-fun-71e45662a944)
+  - [~~Clean code because it’s fun~~](https://medium.com/@adamzerner/clean-code-because-its-fun-71e45662a944)
 
   - [Keeping your code clean](https://codeburst.io/keeping-your-code-clean-d30bcffd1a10)
 
