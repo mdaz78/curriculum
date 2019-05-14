@@ -31,7 +31,7 @@ Also, **if you always remember that code is written to read (by humans)** and no
 
   - [~~Clean code because it’s fun~~](https://medium.com/@adamzerner/clean-code-because-its-fun-71e45662a944)
 
-  - [Keeping your code clean](https://codeburst.io/keeping-your-code-clean-d30bcffd1a10)
+  - [~~Keeping your code clean~~](https://codeburst.io/keeping-your-code-clean-d30bcffd1a10)
 
 - #### Books
   - ***Structure and Interpretation of Computer Programs*** by Hal Abelson, Gerald Jay Sussman
